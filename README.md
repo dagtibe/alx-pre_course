@@ -11,10 +11,10 @@
  >I am an alx student. 
   
   ## 🛠 Skills
-   HTML, CSS...
+   HTML, CSS
 
  ## lessons learned
- Both  *soft* and **technical** skills.And also it is community based.
+ Both  **soft** and **technical** skills.And also it is community based.
 
 ### Tools used on the project
 
